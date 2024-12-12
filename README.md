@@ -127,6 +127,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Movie API providers for comprehensive movie data
 - Clerk for authentication services
 - The open-source community for the amazing tools and libraries
