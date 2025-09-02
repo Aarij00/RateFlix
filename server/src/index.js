@@ -14,6 +14,7 @@ const redis = new Redis({
 
 // Basic GraphQL schema
 // test
+// test
 const typeDefs = `#graphql
   type User {
     id: Int!
